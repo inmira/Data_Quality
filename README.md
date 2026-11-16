@@ -1,5 +1,5 @@
 # Data_Quality
-A short data quality review notebook, built as follow-up work after a technical interview.
+A short data quality review notebook.
 
 The notebook checks a dataset of customers, customer snapshots, and transactions for common data quality issues before any feature engineering or modeling:
 
